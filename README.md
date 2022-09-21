@@ -14,4 +14,4 @@
    - 조회 수
 3. 수집한 데이터를 기반으로 시각화
 4. 시각화한 데이터로 무엇을 얻을 수 있는지 고안하기
-
+> DV_project.ipynb 파일 실행 후 Data_visualization.ipynb 실행시키면 된다.
